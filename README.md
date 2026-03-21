@@ -7,17 +7,17 @@ I'm an aspiring Software Engineer and Computer Science enthusiast. I’m passion
 🔭 Currently Working On
 
 Deepening knowledge in core computer science concepts and algorithms
-Building personal and academic projects that combine CS principles with coding
-Exploring modern web technologies to complement my CS skills
-Learning project management and leadership to organize effective workflows
+,Building personal and academic projects that combine CS principles with coding
+,Exploring modern web technologies to complement my CS skills
+,Learning project management and leadership to organize effective workflows
 
 🛠 Tools & Technologies
 
 Programming Languages: C, C++, Java, Python, PHP, JavaScript
-Frontend: HTML, CSS, JavaScript
-Backend & Databases: PHP, MySQL
-Version Control: GitHub
-Other Skills: Problem Solving, Team Leadership, Project Management
+,Frontend: HTML, CSS, JavaScript
+,Backend & Databases: PHP, MySQL
+,Version Control: GitHub
+,Other Skills: Problem Solving, Team Leadership, Project Management
 
 📫 How to Reach Me
 
